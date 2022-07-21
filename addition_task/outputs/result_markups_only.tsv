@@ -1,0 +1,201 @@
+prompt	ground_truth	candidate	predict	exact_match
+add the numbers L 2 K 7 J 0 I 8 H 5 G 1 F 5 E 5 D 8 C 2 B 4 A 9 and I 6 H 2 G 3 F 3 E 4 D 7 C 3 B 0 A 0	271474905549	 L 2 K 7 J 6 I 0 H 8 G 4 F 8 E 9 D 5 C 5 B 4 A 9	276084895549	False
+add the numbers M 9 L 7 K 7 J 4 I 0 H 5 G 3 F 7 E 1 D 9 C 0 B 2 A 7 and E 3 D 8 C 7 B 7 A 5	9774053757802	 M 9 L 7 K 7 J 4 I 0 H 5 G 3 F 7 E 4 D 7 C 7 B 9 A 2	9774053747792	False
+add the numbers G 3 F 8 E 6 D 6 C 3 B 8 A 8 and E 6 D 1 C 2 B 8 A 4	3927672	 G 3 F 8 E 6 D 6 C 3 B 8 A 8	3866388	False
+add the numbers D 4 C 6 B 3 A 4 and D 1 C 1 B 8 A 0	5814	 D 5 C 7 B 1 A 4	5714	False
+add the numbers E 4 D 3 C 7 B 0 A 3 and D 1 C 8 B 4 A 7	45550	 E 5 D 4 C 3 B 4 A 0	54340	False
+add the numbers K 4 J 1 I 8 H 1 G 5 F 3 E 6 D 0 C 3 B 7 A 5 and H 8 G 2 F 9 E 7 D 0 C 4 B 0 A 6	41898330781	 K 4 J 1 I 8 H 1 G 5 F 3 E 6 D 0 C 3 B 7 A 5	41815360375	False
+add the numbers H 8 G 5 F 8 E 3 D 4 C 5 B 9 A 4 and J 8 I 0 H 1 G 9 F 8 E 5 D 5 C 2 B 8 A 4	8105689878	 K 0 J 5 I 9 H 0 G 4 F 6 E 8 D 9 C 7 B 1 A 8	05904689718	False
+add the numbers N 2 M 1 L 8 K 1 J 8 I 3 H 0 G 2 F 4 E 1 D 8 C 4 B 2 A 3 and K 1 J 2 I 7 H 1 G 5 F 7 E 3 D 5 C 9 B 2 A 2	21831018154345	 N 2 M 1 L 8 K 2 J 0 I 0 H 1 G 7 F 11 E 4 D 13 C 13 B 4 A 5	21820017114131345	False
+add the numbers D 2 C 8 B 9 A 8 and D 1 C 0 B 7 A 2	3970	 D 3 C 8 B 6 A 0	3860	False
+add the numbers J 3 I 7 H 8 G 8 F 2 E 6 D 0 C 5 B 4 A 9 and F 9 E 6 D 7 C 7 B 3 A 0	3789228279	 J 3 I 7 H 8 G 8 F 2 E 6 D 7 C 7 B 3 A 9	3788267739	False
+add the numbers G 2 F 4 E 3 D 0 C 0 B 7 A 3 and D 9 C 2 B 7 A 3	2439346	 G 2 F 4 E 3 D 9 C 2 B 0 A 6	2439206	False
+add the numbers H 2 G 3 F 9 E 4 D 1 C 5 B 8 A 5 and D 8 C 4 B 6 A 8	23950053	 H 2 G 3 F 9 E 4 D 9 C 9 B 4 A 3	23949943	False
+add the numbers L 6 K 5 J 1 I 5 H 7 G 9 F 7 E 8 D 8 C 1 B 8 A 8 and F 1 E 7 D 6 C 8 B 4 A 3	651579965031	 L 7 K 2 J 8 I 0 H 1 G 0 F 8 E 5 D 5 C 9 B 2 A 11	7280108559211	False
+add the numbers D 9 C 4 B 2 A 3 and I 8 H 1 G 2 F 2 E 1 D 4 C 9 B 6 A 2	812224385	 I 8 H 1 G 2 F 2 E 1 D 4 C 9 B 6 A 5	812214965	False
+add the numbers D 2 C 8 B 7 A 9 and D 4 C 0 B 4 A 7	6926	 D 6 C 8 B 1 A 6	6816	False
+add the numbers D 6 C 4 B 0 A 7 and D 7 C 3 B 2 A 1	13728	 E 3 D 1 C 7 B 2 A 8	31728	False
+add the numbers M 1 L 7 K 4 J 1 I 5 H 3 G 4 F 6 E 2 D 5 C 1 B 1 A 1 and M 7 L 6 K 6 J 9 I 8 H 5 G 0 F 3 E 8 D 8 C 2 B 3 A 8	9411385013349	 M 8 L 3 K 0 J 0 I 0 H 8 G 4 F 9 E 0 D 0 C 3 B 4 A 9	8300084900349	False
+add the numbers F 6 E 7 D 5 C 7 B 0 A 8 and I 5 H 0 G 5 F 4 E 7 D 3 C 3 B 2 A 6	506149034	 I 5 H 7 G 0 F 4 E 7 D 3 C 3 B 2 A 6	570473326	False
+add the numbers F 1 E 1 D 6 C 9 B 1 A 1 and H 4 G 3 F 7 E 9 D 9 C 3 B 9 A 7	43916308	 H 5 G 4 F 8 E 0 D 6 C 0 B 0 A 8	54806008	False
+add the numbers D 6 C 6 B 8 A 7 and D 7 C 4 B 1 A 5	14102	 E 3 D 1 C 1 B 9 A 2	31192	False
+add the numbers K 2 J 0 I 6 H 8 G 4 F 8 E 8 D 4 C 6 B 3 A 7 and F 9 E 1 D 6 C 1 B 2 A 7	20685800764	 K 2 J 0 I 6 H 8 G 4 F 9 E 1 D 6 C 1 B 2 A 7	20684916127	False
+add the numbers G 5 F 8 E 8 D 2 C 1 B 8 A 9 and D 7 C 5 B 7 A 2	5889761	 G 5 F 8 E 8 D 2 C 1 B 8 A 9	5882189	False
+add the numbers H 3 G 4 F 2 E 4 D 4 C 8 B 0 A 1 and K 9 J 8 I 0 H 2 G 9 F 5 E 5 D 6 C 4 B 7 A 2	98063801273	 K 9 J 8 I 0 H 5 G 3 F 7 E 9 D 0 C 4 B 7 A 3	98053790473	False
+add the numbers F 8 E 0 D 4 C 5 B 3 A 4 and E 6 D 9 C 1 B 1 A 4	873648	 F 1 E 7 D 5 C 6 B 4 A 8	175648	False
+add the numbers D 8 C 9 B 7 A 5 and D 5 C 0 B 1 A 6	13991	 E 1 D 5 C 0 B 8 A 1	15081	False
+add the numbers L 5 K 1 J 4 I 4 H 6 G 4 F 3 E 2 D 9 C 8 B 1 A 0 and D 6 C 0 B 5 A 0	514464335860	 L 5 K 1 J 4 I 4 H 6 G 4 F 3 E 2 D 9 C 8 B 1 A 0	514464329810	False
+add the numbers D 8 C 0 B 0 A 3 and F 1 E 2 D 0 C 9 B 3 A 0	128933	 F 1 E 2 D 8 C 9 B 3 A 3	128933	True
+add the numbers D 6 C 5 B 9 A 0 and G 5 F 3 E 2 D 1 C 4 B 6 A 3	5328053	 G 5 F 3 E 2 D 1 C 4 B 6 A 3	5321463	False
+add the numbers I 9 H 2 G 1 F 1 E 6 D 9 C 3 B 8 A 2 and I 6 H 9 G 7 F 4 E 8 D 5 C 9 B 8 A 8	1618655370	 I 5 H 0 G 0 F 5 E 4 D 4 C 2 B 6 A 0	500544260	False
+add the numbers K 4 J 8 I 6 H 8 G 4 F 9 E 7 D 4 C 1 B 1 A 2 and N 6 M 6 L 6 K 9 J 2 I 2 H 7 G 4 F 7 E 4 D 1 C 3 B 0 A 3	66740959715415	 N 6 M 6 L 6 K 9 J 2 I 2 H 7 G 4 F 7 E 4 D 1 C 3 B 0 A 3	66692274741303	False
+add the numbers I 1 H 7 G 0 F 2 E 7 D 3 C 4 B 2 A 3 and F 8 E 2 D 7 C 8 B 9 A 3	171101316	 I 1 H 7 G 0 F 2 E 7 D 3 C 4 B 2 A 3	170273423	False
+add the numbers L 8 K 6 J 4 I 6 H 9 G 2 F 5 E 0 D 2 C 4 B 8 A 6 and E 7 D 8 C 3 B 6 A 8	864692580854	 L 8 K 6 J 4 I 6 H 9 G 2 F 5 E 7 D 2 C 7 B 2 A 8	864692572728	False
+add the numbers K 9 J 8 I 9 H 4 G 5 F 4 E 6 D 3 C 0 B 4 A 3 and I 5 H 3 G 2 F 8 E 0 D 2 C 6 B 1 A 5	99478265658	 K 9 J 8 I 9 H 4 G 5 F 4 E 6 D 3 C 0 B 4 A 3	98945463043	False
+add the numbers L 2 K 4 J 3 I 9 H 7 G 5 F 3 E 0 D 5 C 5 B 7 A 1 and N 6 M 2 L 3 K 1 J 2 I 6 H 8 G 1 F 0 E 7 D 6 C 1 B 3 A 5	62556656381706	 N 8 M 6 L 7 K 5 J 5 I 9 H 7 G 5 F 3 E 7 D 5 C 5 B 7 A 5	86755975375575	False
+add the numbers D 5 C 9 B 7 A 4 and E 3 D 8 C 7 B 2 A 5	44699	 E 3 D 5 C 6 B 9 A 9	35699	False
+add the numbers K 2 J 0 I 7 H 9 G 6 F 4 E 7 D 5 C 1 B 6 A 2 and K 9 J 2 I 1 H 7 G 5 F 6 E 4 D 4 C 6 B 1 A 4	112972119776	 K 2 J 2 I 8 H 6 G 5 F 4 E 7 D 5 C 1 B 6 A 4	22865475164	False
+add the numbers H 7 G 6 F 2 E 4 D 9 C 1 B 7 A 6 and I 4 H 9 G 4 F 4 E 6 D 3 C 5 B 9 A 8	570712774	 I 1 H 5 G 0 F 6 E 0 D 2 C 6 B 6 A 4	150602664	False
+add the numbers H 2 G 6 F 1 E 7 D 3 C 7 B 8 A 2 and H 7 G 7 F 9 E 6 D 8 C 6 B 4 A 6	104142428	 H 0 G 4 F 0 E 4 D 1 C 3 B 2 A 8	04041328	False
+add the numbers F 5 E 3 D 5 C 0 B 1 A 0 and F 8 E 1 D 8 C 0 B 5 A 1	1353061	 G 1 F 4 E 4 D 3 C 0 B 6 A 1	1443061	False
+add the numbers I 7 H 7 G 9 F 2 E 8 D 8 C 5 B 9 A 5 and G 7 F 6 E 4 D 8 C 4 B 8 A 7	786937082	 I 7 H 7 G 6 F 8 E 2 D 8 C 5 B 9 A 5	776828595	False
+add the numbers E 3 D 9 C 4 B 4 A 4 and F 8 E 5 D 2 C 8 B 7 A 0	892314	 F 1 E 4 D 1 C 0 B 1 A 4	141014	False
+add the numbers D 2 C 2 B 1 A 0 and D 9 C 0 B 8 A 4	11294	 E 1 D 1 C 2 B 9 A 4	11294	True
+add the numbers G 7 F 3 E 5 D 0 C 4 B 0 A 7 and L 7 K 5 J 6 I 0 H 5 G 5 F 4 E 1 D 9 C 9 B 0 A 8	756062770315	 M 1 L 2 K 8 J 1 I 5 H 5 G 9 F 7 E 6 D 9 C 3 B 0 A 5	1281559769305	False
+add the numbers I 4 H 3 G 7 F 7 E 7 D 4 C 1 B 4 A 1 and M 2 L 2 K 9 J 6 I 8 H 8 G 0 F 2 E 4 D 4 C 2 B 8 A 3	2297318018424	 N 6 M 5 L 5 K 2 J 9 I 2 H 1 G 7 F 9 E 11 D 8 C 3 B 12 A 4	6552921791183124	False
+add the numbers H 1 G 8 F 5 E 3 D 6 C 2 B 5 A 3 and D 5 C 4 B 9 A 9	18541752	 H 1 G 8 F 5 E 3 D 5 C 6 B 4 A 2	18535642	False
+add the numbers K 6 J 8 I 7 H 6 G 3 F 4 E 9 D 5 C 7 B 3 A 8 and G 1 F 2 E 0 D 3 C 3 B 7 A 1	68764699109	 K 7 J 0 I 9 H 9 G 4 F 6 E 9 D 8 C 0 B 0 A 9	70994698009	False
+add the numbers J 4 I 7 H 6 G 1 F 3 E 2 D 1 C 8 B 8 A 4 and J 8 I 3 H 3 G 2 F 6 E 8 D 5 C 3 B 0 A 4	13094007188	 J 0 I 0 H 0 G 0 F 0 E 0 D 0 C 0 B 0 A 0	0000000000	False
+add the numbers F 9 E 0 D 0 C 2 B 8 A 4 and I 9 H 8 G 3 F 8 E 6 D 9 C 1 B 0 A 4	984769388	 I 9 I 8 H 8 G 3 F 8 E 6 D 9 C 3 B 8 A 8	9883869388	False
+add the numbers F 1 E 1 D 3 C 6 B 6 A 2 and F 1 E 2 D 0 C 1 B 8 A 7	233849	 G 2 F 2 D 3 C 7 B 4 A 9	223749	False
+add the numbers L 1 K 0 J 4 I 7 H 4 G 3 F 9 E 6 D 0 C 6 B 7 A 6 and M 8 L 8 K 1 J 1 I 3 H 2 G 9 F 4 E 9 D 8 C 4 B 3 A 9	8916073459115	 N 1 M 8 L 8 K 1 J 5 I 0 H 6 G 2 F 3 E 5 D 8 C 0 B 0 A 5	18815062358005	False
+add the numbers J 7 I 5 H 7 G 3 F 1 E 0 D 3 C 9 B 2 A 1 and J 9 I 9 H 9 G 6 F 0 E 8 D 3 C 9 B 3 A 0	17569187851	 K 6 J 4 I 4 H 6 G 9 F 1 E 8 D 6 C 8 B 5 A 1	64469186851	False
+add the numbers E 1 D 6 C 9 B 9 A 2 and E 4 D 2 C 5 B 0 A 7	59499	 E 5 D 8 C 4 B 9 A 9	58499	False
+add the numbers I 9 H 2 G 4 F 0 E 2 D 8 C 7 B 1 A 7 and I 6 H 7 G 0 F 7 E 9 D 6 C 4 B 3 A 7	1594825154	 I 5 H 9 G 4 F 7 E 9 D 5 C 1 B 4 A 0	594795140	False
+add the numbers K 5 J 4 I 9 H 8 G 9 F 4 E 6 D 0 C 5 B 5 A 9 and I 2 H 1 G 4 F 4 E 2 D 9 C 3 B 2 A 1	55203889880	 K 5 J 4 I 9 H 8 G 9 F 4 E 6 D 0 C 5 B 5 A 9	54989460559	False
+add the numbers L 8 K 1 J 7 I 4 H 5 G 8 F 2 E 7 D 9 C 2 B 5 A 8 and L 8 K 1 J 9 I 9 H 7 G 2 F 1 E 4 D 6 C 4 B 0 A 4	1637430425662	 L 8 K 1 J 9 I 9 H 7 G 2 F 1 E 4 D 6 C 4 B 0 A 4	819972146404	False
+add the numbers G 6 F 4 E 5 D 0 C 2 B 5 A 1 and G 2 F 0 E 6 D 0 C 2 B 5 A 2	8510503	 G 8 F 4 E 1 D 0 C 4 B 0 A 3	8410403	False
+add the numbers N 1 M 7 L 2 K 8 J 0 I 6 H 4 G 9 F 0 E 6 D 7 C 8 B 8 A 4 and N 4 M 1 L 8 K 5 J 9 I 9 H 2 G 4 F 2 E 1 D 7 C 6 B 3 A 0	59140573285514	 N 5 M 8 L 0 K 3 J 9 I 5 H 6 G 3 F 2 E 7 D 5 C 4 B 1 A 4	58039563275414	False
+add the numbers H 4 G 3 F 9 E 2 D 8 C 6 B 9 A 6 and L 9 K 8 J 6 I 6 H 0 G 1 F 2 E 3 D 0 C 2 B 1 A 2	986645158908	 P 3 O 2 N 8 M 1 L 1 K 0 J 8 I 8 H 4 G 4 F 11 E 5 D 8 C 8 B 10 A 8	328110884411588108	False
+add the numbers D 5 C 5 B 4 A 3 and G 4 F 0 E 6 D 1 C 9 B 0 A 7	4067450	 G 4 F 0 E 6 D 6 C 4 B 4 A 0	4066440	False
+add the numbers D 5 C 5 B 6 A 0 and D 5 C 6 B 1 A 1	11171	 D 0 C 0 B 7 A 1	0071	False
+add the numbers D 3 C 6 B 4 A 2 and D 9 C 2 B 3 A 6	12878	 E 2 D 5 C 8 B 7 A 8	25878	False
+add the numbers F 7 E 8 D 1 C 0 B 7 A 1 and F 6 E 1 D 4 C 6 B 4 A 1	1395712	 F 1 E 0 D 5 C 6 B 1 A 2	105612	False
+add the numbers D 5 C 3 B 5 A 2 and L 3 K 5 J 6 I 0 H 5 G 7 F 0 E 2 D 2 C 2 B 2 A 3	356057027575	 L 8 K 8 J 11 I 2 H 7 G 9 F 2 E 4 D 7 C 5 B 7 A 5	8811279247575	False
+add the numbers D 3 C 6 B 2 A 2 and G 5 F 2 E 4 D 9 C 8 B 7 A 3	5253495	 G 5 F 2 E 4 D 9 C 8 B 7 A 3	5249873	False
+add the numbers D 6 C 9 B 0 A 5 and E 5 D 0 C 6 B 3 A 3	57538	 E 1 D 9 C 5 B 3 A 8	19538	False
+add the numbers F 7 E 6 D 8 C 3 B 1 A 1 and H 2 G 4 F 0 E 9 D 4 C 5 B 5 A 7	24862868	 H 2 G 4 F 0 E 9 D 4 C 5 B 5 A 8	24094558	False
+add the numbers J 6 I 5 H 8 G 9 F 8 E 5 D 1 C 5 B 2 A 4 and H 1 G 1 F 3 E 4 D 3 C 3 B 4 A 3	6601194867	 J 7 I 6 H 9 G 0 F 2 E 9 D 4 C 8 B 6 A 7	7690294867	False
+add the numbers J 7 I 8 H 4 G 5 F 2 E 0 D 2 C 4 B 6 A 6 and J 7 I 4 H 0 G 9 F 7 E 2 D 4 C 2 B 6 A 4	15254926730	 J 1 I 1 H 0 G 0 F 0 E 0 D 0 C 0 B 0 A 0	1100000000	False
+add the numbers I 9 H 7 G 7 F 7 E 4 D 9 C 7 B 7 A 7 and N 6 M 7 L 5 K 9 J 9 I 5 H 4 G 2 F 9 E 7 D 1 C 7 B 3 A 8	67600520721515	 O 5 P 4 Q 2 R 6 S 6 T 1 U 6 V 0 W 0 X 6 Y 0 Z 6	542661600606	False
+add the numbers G 2 F 3 E 3 D 2 C 5 B 1 A 8 and F 4 E 7 D 8 C 7 B 1 A 8	2811236	 G 6 F 1 E 1 D 0 C 2 B 2 A 0	6110220	False
+add the numbers E 2 D 2 C 7 B 6 A 6 and H 5 G 4 F 0 E 3 D 5 C 4 B 0 A 9	54058175	 H 7 G 6 F 7 E 5 D 7 C 1 B 6 A 5	76757165	False
+add the numbers D 5 C 7 B 6 A 2 and D 6 C 3 B 6 A 7	12129	 E 1 D 5 C 1 B 0 A 9	15109	False
+add the numbers K 8 J 2 I 5 H 7 G 1 F 6 E 6 D 5 C 9 B 4 A 4 and I 9 H 3 G 9 F 9 E 4 D 5 C 5 B 8 A 3	83511611527	 K 8 J 2 I 5 H 7 G 1 F 6 E 6 D 5 C 9 B 4 A 4	82571665944	False
+add the numbers J 7 I 0 H 3 G 6 F 6 E 4 D 1 C 4 B 0 A 3 and L 3 K 1 J 0 I 8 H 0 G 6 F 1 E 4 D 6 C 0 B 1 A 4	317842787417	 M 0 L 4 K 1 J 8 I 8 H 3 G 6 F 7 E 5 D 7 C 4 B 1 A 7	0418836757417	False
+add the numbers N 3 M 9 L 9 K 4 J 0 I 2 H 6 G 5 F 9 E 1 D 0 C 8 B 9 A 9 and F 3 E 5 D 1 C 8 B 1 A 4	39940266262713	 N 3 M 9 L 9 K 4 J 0 I 2 H 6 G 5 F 9 E 1 D 0 C 8 B 9 A 9	39940265910899	False
+add the numbers I 5 H 3 G 0 F 1 E 4 D 2 C 2 B 1 A 4 and I 6 H 0 G 6 F 1 E 0 D 9 C 5 B 3 A 4	1136251748	 I 1 H 3 G 6 F 2 E 4 D 1 C 7 B 4 A 8	136241748	False
+add the numbers J 3 I 9 H 5 G 1 F 5 E 2 D 6 C 3 B 1 A 5 and K 6 J 0 I 1 H 1 G 1 F 2 E 2 D 5 C 6 B 0 A 0	64062751915	 L 0 K 9 J 0 I 0 H 6 G 2 F 7 E 4 D 1 C 9 B 1 A 5	090062741915	False
+add the numbers J 3 I 2 H 6 G 0 F 5 E 2 D 0 C 9 B 4 A 9 and G 6 F 3 E 1 D 2 C 2 B 5 A 3	3266833202	 J 3 I 2 H 6 G 6 F 3 E 1 D 2 C 2 B 5 A 3	3266312253	False
+add the numbers M 1 L 0 K 9 J 4 I 2 H 8 G 4 F 0 E 7 D 5 C 8 B 2 A 1 and N 8 M 5 L 4 K 1 J 9 I 0 H 7 G 2 F 0 E 8 D 3 C 0 B 7 A 4	86513356158895	 O 9 N 5 M 5 L 4 K 0 J 3 I 2 H 5 G 6 F 0 E 5 D 8 C 8 B 9 A 5	955403256058895	False
+add the numbers D 1 C 3 B 0 A 8 and D 8 C 1 B 5 A 5	9463	 E 1 D 0 C 4 B 5 A 3	10453	False
+add the numbers N 8 M 5 L 5 K 9 J 5 I 2 H 5 G 6 F 1 E 3 D 8 C 5 B 0 A 3 and H 9 G 2 F 3 E 9 D 2 C 5 B 1 A 6	85595348531019	 N 8 M 5 L 5 K 9 J 5 I 2 H 5 G 6 F 1 E 3 D 8 C 5 B 1 A 9	85595256138519	False
+add the numbers J 9 I 4 H 5 G 1 F 8 E 9 D 6 C 1 B 1 A 9 and J 3 I 3 H 7 G 8 F 6 E 5 D 5 C 3 B 9 A 1	12830551510	 K 2 J 7 I 7 H 2 G 9 F 4 E 4 D 1 C 4 B 0 A 0	27729441400	False
+add the numbers L 5 K 6 J 6 I 6 H 4 G 3 F 0 E 2 D 3 C 2 B 7 A 2 and K 9 J 9 I 9 H 7 G 2 F 1 E 6 D 1 C 5 B 6 A 4	666615184836	 L 5 K 6 J 6 I 6 H 4 G 3 F 0 E 2 D 3 C 2 B 7 A 2	566643023272	False
+add the numbers E 3 D 8 C 0 B 4 A 6 and L 6 K 0 J 8 I 6 H 6 G 1 F 2 E 6 D 0 C 0 B 6 A 0	608661298106	 L 9 K 8 J 8 I 0 H 0 G 7 F 2 E 9 D 8 C 0 B 0 A 6	988007298006	False
+add the numbers I 4 H 4 G 0 F 5 E 1 D 2 C 0 B 3 A 9 and D 5 C 0 B 0 A 3	440517042	 I 4 H 4 G 0 F 5 E 1 D 5 C 0 B 3 A 0	440515030	False
+add the numbers F 6 E 2 D 7 C 5 B 6 A 7 and K 3 J 4 I 6 H 6 G 1 F 5 E 6 D 3 C 6 B 1 A 6	34662191183	 K 3 J 4 I 6 H 6 G 1 F 5 E 6 D 3 C 6 B 1 A 6	34661563616	False
+add the numbers E 1 D 4 C 4 B 1 A 3 and E 9 D 9 C 6 B 8 A 5	114098	 E 0 D 4 C 0 B 9 A 8	04098	False
+add the numbers F 4 E 7 D 7 C 4 B 1 A 9 and E 7 D 2 C 3 B 0 A 9	549728	 F 1 E 5 D 0 C 7 B 1 A 8	150718	False
+add the numbers G 4 F 0 E 6 D 0 C 2 B 6 A 7 and I 8 H 5 G 0 F 6 E 3 D 7 C 0 B 7 A 6	854697343	 I 0 H 5 G 6 F 6 E 9 D 7 C 2 B 3 A 3	056697233	False
+add the numbers G 9 F 9 E 0 D 0 C 0 B 9 A 4 and F 6 E 9 D 1 C 3 B 3 A 6	10591430	 G 5 F 6 E 0 D 1 C 3 B 2 A 0	5601320	False
+add the numbers G 7 F 8 E 8 D 0 C 9 B 9 A 4 and M 3 L 7 K 8 J 8 I 5 H 8 G 6 F 0 E 8 D 9 C 5 B 5 A 7	3788593970551	 N 0 M 5 L 5 K 6 J 6 I 3 H 6 G 5 F 8 E 8 D 9 C 5 B 5 A 7	05566365889557	False
+add the numbers E 6 D 9 C 9 B 3 A 7 and H 1 G 7 F 0 E 1 D 6 C 4 B 6 A 6	17086403	 H 7 G 6 F 9 E 0 D 5 C 3 B 9 A 3	76905393	False
+add the numbers J 2 I 8 H 1 G 4 F 0 E 5 D 7 C 8 B 0 A 9 and J 5 I 4 H 8 G 3 F 7 E 7 D 6 C 7 B 0 A 8	8297834517	 J 7 I 2 H 9 G 7 F 7 E 2 D 3 C 5 B 0 A 7	7297723507	False
+add the numbers E 4 D 2 C 5 B 9 A 0 and F 1 E 7 D 8 C 5 B 9 A 2	221182	 F 5 E 9 D 7 C 0 B 8 A 2	597082	False
+add the numbers H 7 G 1 F 8 E 9 D 3 C 3 B 2 A 0 and F 3 E 8 D 7 C 1 B 6 A 5	72280485	 H 1 G 0 F 0 E 0 D 0 C 0 B 0 A 0	10000000	False
+add the numbers M 5 L 3 K 8 J 5 I 5 H 6 G 0 F 6 E 3 D 4 C 7 B 1 A 3 and K 8 J 1 I 6 H 7 G 8 F 9 E 2 D 1 C 3 B 3 A 6	5467239556049	 M 5 L 3 K 8 J 5 I 5 H 6 G 0 F 6 E 3 D 4 C 7 B 1 A 3	5385560634713	False
+add the numbers F 5 E 5 D 7 C 5 B 0 A 4 and F 5 E 7 D 2 C 3 B 2 A 9	1129833	 E 1 D 0 C 8 B 2 A 3	10823	False
+add the numbers I 6 H 4 G 4 F 8 E 1 D 2 C 4 B 2 A 6 and K 4 J 9 I 9 H 8 G 5 F 4 E 2 D 4 C 1 B 2 A 1	50630236547	 L 0 K 3 J 3 I 3 H 2 G 9 F 4 E 3 D 6 C 5 B 4 A 7	033329436547	False
+add the numbers N 2 M 8 L 0 K 9 J 0 I 8 H 8 G 8 F 2 E 1 D 2 C 1 B 0 A 3 and K 3 J 0 I 6 H 9 G 0 F 8 E 0 D 6 C 5 B 8 A 6	28121579018689	 N 2 M 8 L 0 K 9 J 0 I 8 H 8 G 8 F 2 E 1 D 2 C 1 B 0 A 3	28090888212103	False
+add the numbers F 7 E 1 D 0 C 5 B 5 A 4 and F 4 E 8 D 8 C 3 B 1 A 1	1198865	 F 1 E 0 D 8 C 8 B 6 A 5	108865	False
+add the numbers D 9 C 5 B 3 A 4 and D 2 C 3 B 7 A 8	11912	 E 1 D 5 C 8 B 0 A 2	15802	False
+add the numbers E 3 D 4 C 4 B 5 A 6 and E 9 D 1 C 3 B 2 A 1	125777	 E 3 D 5 C 7 B 7 A 7	35777	False
+add the numbers N 2 M 7 L 4 K 9 J 7 I 9 H 4 G 6 F 0 E 2 D 4 C 0 B 6 A 9 and L 9 K 9 J 9 I 1 H 4 G 4 F 1 E 4 D 6 C 8 B 1 A 5	28497090170884	 N 2 M 7 L 9 K 9 J 9 I 1 H 4 G 4 F 1 E 4 D 6 C 8 B 1 A 5	27999144146815	False
+add the numbers L 1 K 8 J 0 I 7 H 3 G 3 F 1 E 4 D 3 C 8 B 8 A 4 and E 6 D 8 C 5 B 2 A 3	180733212407	 L 1 K 8 J 0 I 7 H 3 G 3 F 1 E 4 D 3 C 8 B 8 A 4	180733143884	False
+add the numbers K 6 J 6 I 5 H 5 G 6 F 8 E 6 D 5 C 5 B 0 A 0 and M 8 L 2 K 1 J 0 I 2 H 0 G 6 F 0 E 4 D 7 C 1 B 5 A 9	8276762912659	 N 0 M 8 L 2 K 1 J 0 I 2 H 0 G 6 F 0 E 4 D 7 C 1 B 5 A 9	08210206047159	False
+add the numbers F 3 E 6 D 2 C 2 B 3 A 4 and H 2 G 7 F 7 E 2 D 5 C 8 B 0 A 0	28088034	 H 5 G 3 F 9 E 8 D 7 C 0 B 3 A 4	53987034	False
+add the numbers K 7 J 9 I 9 H 2 G 9 F 6 E 2 D 0 C 3 B 9 A 5 and G 9 F 0 E 3 D 7 C 6 B 3 A 1	79938658026	 K 7 J 9 I 9 H 2 G 9 F 6 E 2 D 7 C 9 B 0 A 6	79929627906	False
+add the numbers F 3 E 8 D 5 C 0 B 1 A 6 and F 7 E 2 D 3 C 7 B 0 A 9	1108725	 E 1 D 8 C 7 B 1 A 5	18715	False
+add the numbers E 1 D 7 C 5 B 8 A 1 and E 8 D 5 C 2 B 0 A 7	102788	 E 1 D 7 C 5 B 8 A 1	17581	False
+add the numbers I 8 H 4 G 7 F 7 E 4 D 9 C 4 B 7 A 8 and D 3 C 2 B 5 A 4	847752732	 I 8 H 4 G 7 F 7 E 4 D 3 C 2 B 5 A 4	847743254	False
+add the numbers I 8 H 6 G 0 F 4 E 0 D 2 C 3 B 3 A 9 and D 4 C 6 B 0 A 5	860406944	 I 8 H 6 G 0 F 4 E 0 D 6 C 9 B 3 A 4	860406934	False
+add the numbers E 9 D 8 C 8 B 0 A 4 and E 7 D 2 C 2 B 7 A 6	171080	 E 1 D 0 C 0 B 7 A 0	10070	False
+add the numbers E 9 D 2 C 6 B 3 A 5 and E 9 D 8 C 0 B 0 A 6	190641	 E 9 D 8 C 6 B 3 A 5	98635	False
+add the numbers D 4 C 6 B 6 A 4 and E 2 D 6 C 8 B 8 A 3	31547	 E 2 D 6 C 8 B 8 A 7	26887	False
+add the numbers G 3 F 8 E 6 D 6 C 7 B 9 A 2 and G 6 F 2 E 1 D 8 C 0 B 5 A 4	10084846	 G 9 F 0 E 7 D 4 C 7 B 4 A 6	9074746	False
+add the numbers L 5 K 7 J 4 I 0 H 9 G 9 F 6 E 3 D 7 C 0 B 2 A 1 and H 8 G 9 F 3 E 4 D 5 C 6 B 3 A 4	574188982655	 L 5 K 7 J 4 I 0 H 9 G 9 F 9 E 7 D 2 C 6 B 5 A 5	574099972655	False
+add the numbers J 2 I 3 H 8 G 4 F 0 E 8 D 4 C 5 B 7 A 4 and H 8 G 1 F 7 E 1 D 7 C 7 B 0 A 4	2465802278	 J 2 I 3 H 8 G 5 F 7 E 9 D 11 C 12 B 7 A 8	238579111278	False
+add the numbers G 3 F 0 E 8 D 4 C 1 B 8 A 3 and F 9 E 3 D 9 C 8 B 6 A 9	4024052	 G 2 F 9 E 1 D 3 C 9 B 4 A 2	2913942	False
+add the numbers N 1 M 0 L 7 K 5 J 4 I 8 H 4 G 9 F 0 E 0 D 9 C 4 B 1 A 4 and D 2 C 1 B 5 A 2	10754849011566	 N 1 M 0 L 7 K 5 J 4 I 8 H 4 G 9 F 0 E 0 D 9 C 5 B 6 A 6	10754849009566	False
+add the numbers D 4 C 7 B 3 A 9 and L 3 K 1 J 8 I 8 H 6 G 4 F 6 E 3 D 7 C 4 B 9 A 1	318864642230	 L 3 K 1 J 8 I 8 H 6 G 4 F 6 E 3 D 7 C 4 B 9 A 1	318864637491	False
+add the numbers E 2 D 9 C 9 B 1 A 4 and K 7 J 0 I 7 H 5 G 5 F 2 E 4 D 4 C 5 B 1 A 3	70755274427	 K 9 J 9 I 6 H 6 G 6 F 6 E 6 D 4 C 4 B 2 A 7	99666664427	False
+add the numbers J 3 I 2 H 4 G 0 F 9 E 6 D 7 C 1 B 7 A 9 and E 9 D 7 C 5 B 7 A 7	3241064756	 J 3 I 2 H 4 G 0 F 9 E 6 D 7 C 6 B 0 A 6	3240967606	False
+add the numbers L 4 K 2 J 2 I 2 H 9 G 2 F 1 E 4 D 2 C 9 B 5 A 5 and J 8 I 5 H 0 G 7 F 4 E 0 D 9 C 5 B 3 A 1	430799552486	 L 4 K 2 J 2 I 2 H 9 G 2 F 1 E 4 D 2 C 9 B 5 A 5 J 8 I 5 H 0 G 7 F 4 E 0 D 9 C 5 B 3 A 1	4222921429558507409531	False
+add the numbers L 1 K 6 J 3 I 6 H 7 G 5 F 0 E 8 D 4 C 8 B 3 A 2 and N 6 M 9 L 4 K 7 J 4 I 0 H 9 G 7 F 0 E 6 D 1 C 2 B 7 A 1	69637772146103	 O 7 N 5 M 5 L 0 K 3 J 7 I 6 H 6 G 2 F 0 E 4 D 5 C 0 B 0 A 3	755037662045003	False
+add the numbers H 8 G 2 F 5 E 6 D 8 C 7 B 5 A 1 and E 9 D 6 C 9 B 8 A 0	82665731	 H 9 G 2 F 5 E 6 D 8 C 7 B 5 A 1	92568751	False
+add the numbers L 3 K 0 J 2 I 7 H 4 G 3 F 1 E 8 D 2 C 1 B 2 A 2 and H 4 G 7 F 1 E 2 D 3 C 5 B 2 A 1	302790305643	 L 3 K 0 J 2 I 7 H 8 G 0 F 2 E 0 D 5 C 6 B 4 A 3	302780205643	False
+add the numbers N 2 M 8 L 5 K 6 J 2 I 8 H 4 G 6 F 5 E 1 D 5 C 1 B 3 A 5 and E 6 D 4 C 4 B 7 A 8	28562846579613	 N 2 M 8 L 5 K 6 J 2 I 8 H 4 G 6 F 5 E 7 D 9 C 5 B 0 A 3	28562846579503	False
+add the numbers H 3 G 5 F 1 E 3 D 4 C 9 B 9 A 9 and H 9 G 1 F 2 E 3 D 1 C 5 B 2 A 3	126366522	 H 3 G 6 F 3 E 6 D 5 C 4 B 1 A 6	36365416	False
+add the numbers D 9 C 2 B 9 A 2 and E 2 D 8 C 6 B 7 A 8	37970	 E 2 D 9 C 8 B 6 A 0	29860	False
+add the numbers H 5 G 9 F 0 E 3 D 0 C 6 B 9 A 4 and E 2 D 8 C 3 B 9 A 3	59059087	 H 5 G 9 F 0 E 3 D 8 C 9 B 9 A 7	59038997	False
+add the numbers F 4 E 8 D 8 C 1 B 8 A 9 and F 9 E 8 D 2 C 8 B 2 A 3	1471012	 G 3 F 1 D 8 C 9 B 0 A 2	318902	False
+add the numbers H 8 G 4 F 8 E 3 D 6 C 8 B 3 A 5 and F 7 E 5 D 0 C 6 B 1 A 5	85587450	 H 5 G 9 F 3 D 6 C 4 B 4 A 0	5936440	False
+add the numbers L 3 K 6 J 9 I 0 H 2 G 5 F 6 E 6 D 2 C 2 B 4 A 5 and J 9 I 7 H 3 G 0 F 3 E 1 D 0 C 9 B 7 A 3	378755973218	 L 3 K 6 J 9 I 7 H 5 G 5 F 9 E 7 D 2 C 11 B 11 A 8	36975597211118	False
+add the numbers K 3 J 1 I 3 H 3 G 5 F 3 E 2 D 6 C 9 B 8 A 8 and M 5 L 4 K 3 J 7 I 8 H 4 G 9 F 8 E 5 D 4 C 3 B 7 A 0	5469185181358	 P 8 O 5 N 4 M 8 L 5 K 6 J 8 I 6 H 7 G 4 F 11 E 7 D 10 C 12 B 15 A 8	85485686741171012158	False
+add the numbers L 6 K 1 J 6 I 4 H 1 G 4 F 6 E 6 D 9 C 1 B 5 A 7 and J 1 I 6 H 1 G 9 F 3 E 5 D 9 C 4 B 4 A 3	618034028600	 L 7 K 7 J 7 I 0 H 0 G 4 F 9 E 5 D 0 C 5 B 9 A 0	777004950590	False
+add the numbers E 2 D 6 C 3 B 7 A 8 and G 3 F 0 E 7 D 8 C 5 B 6 A 0	3104938	 G 5 F 6 E 0 D 5 C 8 B 3 A 8	5605838	False
+add the numbers D 5 C 0 B 3 A 0 and D 7 C 5 B 0 A 0	12530	 D 0 C 5 B 3 A 0	0530	False
+add the numbers H 1 G 0 F 4 E 4 D 4 C 0 B 2 A 2 and D 1 C 4 B 9 A 5	10445517	 H 1 G 1 F 5 E 5 D 5 C 4 B 11 A 7	115554117	False
+add the numbers G 5 F 3 E 5 D 8 C 6 B 4 A 3 and D 8 C 3 B 2 A 4	5366967	 G 5 F 3 E 5 D 8 C 6 B 6 A 7	5358667	False
+add the numbers G 5 F 3 E 6 D 1 C 3 B 2 A 7 and H 7 G 8 F 8 E 9 D 5 C 8 B 0 A 7	84257134	 H 0 G 1 F 1 E 5 D 6 C 1 B 2 A 4	01156124	False
+add the numbers F 8 E 2 D 6 C 8 B 8 A 2 and F 2 E 2 D 9 C 5 B 7 A 4	1056456	 G 0 F 4 D 6 C 3 B 5 A 6	046356	False
+add the numbers H 8 G 9 F 5 E 5 D 6 C 2 B 3 A 1 and H 5 G 9 F 0 E 3 D 7 C 9 B 6 A 5	148594196	 H 1 G 0 F 5 E 8 D 3 C 1 B 9 A 6	10583196	False
+add the numbers E 6 D 2 C 1 B 4 A 7 and E 4 D 9 C 1 B 9 A 9	111346	 E 0 D 2 C 2 B 3 A 6	02236	False
+add the numbers H 2 G 0 F 5 E 5 D 5 C 9 B 1 A 3 and H 6 G 2 F 3 E 1 D 2 C 2 B 3 A 7	82868150	 H 8 G 2 F 8 E 6 D 7 C 1 B 4 A 0	82867140	False
+add the numbers E 7 D 2 C 3 B 5 A 8 and E 7 D 9 C 7 B 2 A 7	152085	 E 1 D 0 C 0 B 7 A 5	10075	False
+add the numbers L 2 K 5 J 3 I 8 H 0 G 3 F 2 E 2 D 5 C 1 B 3 A 6 and K 1 J 5 I 6 H 0 G 6 F 0 E 8 D 3 C 4 B 4 A 3	269409308579	 L 3 K 6 J 8 I 4 H 3 G 9 F 2 E 0 D 8 C 5 B 7 A 9	368439208579	False
+add the numbers K 2 J 0 I 4 H 0 G 9 F 6 E 4 D 2 C 7 B 4 A 2 and M 5 L 4 K 3 J 3 I 6 H 3 G 5 F 6 E 6 D 2 C 6 B 6 A 0	5454045305402	 P 7 N 4 M 3 L 4 K 3 J 3 I 0 H 3 G 5 F 6 E 6 D 2 C 6 B 6 A 0	743433035662660	False
+add the numbers F 6 E 6 D 0 C 5 B 2 A 4 and J 8 I 6 H 2 G 7 F 6 E 0 D 8 C 8 B 2 A 3	8628269347	 J 8 I 6 H 2 G 7 F 6 E 6 D 8 C 8 B 2 A 3	8627668823	False
+add the numbers E 1 D 9 C 2 B 9 A 5 and E 3 D 8 C 5 B 8 A 3	57878	 E 4 D 7 C 7 B 7 A 8	47778	False
+add the numbers E 3 D 5 C 8 B 1 A 3 and G 4 F 9 E 6 D 5 C 0 B 4 A 8	5000861	 G 7 F 4 E 1 D 0 C 8 B 5 A 11	74108511	False
+add the numbers E 2 D 2 C 6 B 1 A 0 and D 4 C 2 B 2 A 1	26831	 E 2 D 6 C 8 B 3 A 1	26831	True
+add the numbers J 4 I 8 H 6 G 9 F 7 E 2 D 8 C 5 B 1 A 4 and I 8 H 5 G 8 F 1 E 6 D 0 C 8 B 1 A 9	5727889333	 J 4 I 8 H 5 G 9 F 8 E 8 D 8 C 5 B 2 A 9	4859888529	False
+add the numbers E 3 D 9 C 9 B 4 A 5 and E 2 D 8 C 8 B 4 A 4	68789	 E 5 D 7 C 8 B 8 A 9	57889	False
+add the numbers G 5 F 5 E 5 D 1 C 8 B 5 A 7 and E 6 D 2 C 3 B 8 A 8	5614245	 G 5 F 5 E 5 D 3 C 1 B 3 A 7	5553137	False
+add the numbers F 9 E 9 D 3 C 7 B 9 A 2 and F 2 E 6 D 3 C 8 B 8 A 9	1257681	 G 1 F 5 E 0 D 6 C 5 B 7 A 1	1506571	False
+add the numbers L 9 K 9 J 0 I 1 H 8 G 6 F 6 E 5 D 9 C 2 B 3 A 7 and G 5 F 9 E 8 D 0 C 5 B 7 A 0	990192639807	 L 9 K 9 J 0 I 1 H 8 G 5 F 9 E 8 D 0 C 5 B 7 A 0	990185980570	False
+add the numbers E 3 D 3 C 2 B 5 A 4 and K 8 J 6 I 4 H 3 G 3 F 9 E 7 D 8 C 3 B 4 A 8	86434011602	 K 8 J 6 I 4 H 3 G 3 F 9 E 7 D 6 C 5 B 9 A 12	864339765912	False
+add the numbers L 2 K 4 J 7 I 4 H 0 G 5 F 4 E 5 D 9 C 0 B 6 A 8 and E 3 D 5 C 1 B 5 A 1	247405494219	 L 2 K 4 J 7 I 4 H 0 G 5 F 4 E 5 D 9 C 0 B 6 A 8	247405459068	False
+add the numbers K 8 J 4 I 4 H 5 G 2 F 0 E 5 D 2 C 7 B 4 A 0 and K 1 J 5 I 1 H 0 G 9 F 1 E 3 D 9 C 1 B 6 A 6	99561191906	 K 9 J 9 I 5 H 5 G 11 F 1 E 8 D 11 C 8 B 10 A 6	99551118118106	False
+add the numbers J 8 I 8 H 5 G 3 F 8 E 0 D 9 C 8 B 9 A 0 and G 7 F 5 E 2 D 4 C 1 B 6 A 9	8861334059	 J 8 I 8 H 5 G 3 F 8 E 0 D 9 C 8 B 9 A 0	8853809890	False
+add the numbers I 4 H 3 G 1 F 8 E 2 D 7 C 3 B 1 A 8 and I 7 H 5 G 6 F 4 E 1 D 8 C 6 B 4 A 5	1188245963	 I 1 H 8 G 7 F 2 E 9 D 5 C 9 B 5 A 3	187295953	False
+add the numbers E 4 D 2 C 6 B 5 A 0 and E 2 D 4 C 1 B 0 A 8	66758	 E 6 D 6 C 7 B 5 A 8	66758	True
+add the numbers D 3 C 7 B 1 A 7 and D 5 C 2 B 1 A 6	8933	 D 8 C 9 B 2 A 3	8923	False
+add the numbers H 6 G 2 F 8 E 9 D 0 C 7 B 1 A 7 and H 5 G 1 F 2 E 4 D 4 C 5 B 5 A 9	114135276	 H 1 G 3 F 0 E 3 D 4 C 2 B 6 A 6	13034266	False
+add the numbers J 3 I 4 H 4 G 4 F 3 E 1 D 3 C 1 B 3 A 6 and G 1 F 5 E 7 D 5 C 7 B 5 A 0	3445888886	 J 3 I 4 H 4 G 5 F 8 E 8 D 8 C 8 B 8 A 6	3445888886	True
+add the numbers H 3 G 3 F 7 E 6 D 9 C 9 B 7 A 5 and D 9 C 1 B 3 A 1	33779106	 H 3 G 3 F 7 E 6 D 0 C 0 B 0 A 6	33760006	False
+add the numbers L 1 K 0 J 6 I 8 H 9 G 8 F 4 E 1 D 3 C 6 B 3 A 3 and L 2 K 6 J 3 I 8 H 2 G 0 F 6 E 8 D 8 C 0 B 3 A 9	370719101672	 L 3 K 6 J 9 I 6 H 1 G 8 F 0 E 9 D 6 C 6 B 6 A 12	3696180966612	False
+add the numbers D 5 C 2 B 3 A 3 and F 2 E 9 D 1 C 2 B 0 A 9	296442	 F 2 E 9 D 5 C 4 B 3 A 0	295430	False
+add the numbers E 3 D 5 C 5 B 4 A 6 and F 7 E 7 D 5 C 8 B 8 A 3	811429	 F 0 E 0 D 0 C 0 B 0 A 9	000009	False
+add the numbers I 4 H 1 G 0 F 6 E 3 D 9 C 9 B 9 A 4 and I 8 H 4 G 6 F 9 E 5 D 6 C 6 B 5 A 0	1257596644	 I 1 H 5 G 6 F 5 E 8 D 5 C 5 B 4 A 4	156585544	False
+add the numbers M 3 L 2 K 5 J 5 I 8 H 5 G 2 F 5 E 1 D 5 C 2 B 0 A 4 and I 4 H 2 G 7 F 8 E 3 D 2 C 6 B 9 A 1	3256280347895	 M 3 L 2 K 5 J 5 I 8 H 5 G 2 F 5 E 1 D 5 C 2 B 0 A 4	3255852515204	False
+add the numbers E 5 D 7 C 5 B 6 A 1 and K 2 J 7 I 8 H 1 G 6 F 4 E 1 D 7 C 6 B 2 A 1	27816475182	 K 2 J 7 I 8 H 1 G 6 F 4 E 1 D 7 C 6 B 2 A 1	27816417621	False
+add the numbers G 4 F 9 E 3 D 5 C 6 B 8 A 6 and F 9 E 5 D 4 C 0 B 8 A 3	5889769	 G 4 F 9 E 8 D 9 C 6 B 0 A 9	4989609	False
+add the numbers F 4 E 9 D 9 C 7 B 0 A 7 and K 4 J 8 I 4 H 1 G 2 F 2 E 6 D 1 C 8 B 0 A 4	48412761511	 K 8 J 1 I 1 H 1 G 2 F 2 E 6 D 1 C 8 B 0 A 4	81112261804	False
+add the numbers D 2 C 7 B 0 A 2 and D 9 C 2 B 8 A 1	11983	 E 1 D 6 C 9 B 8 A 3	16983	False
+add the numbers J 1 I 8 H 7 G 9 F 7 E 0 D 8 C 2 B 4 A 6 and J 3 I 9 H 8 G 7 F 5 E 7 D 9 C 9 B 7 A 8	5867288224	 K 4 J 7 I 7 H 5 G 6 F 2 E 7 D 1 C 1 B 1 A 4	47756271114	False
+add the numbers L 3 K 7 J 4 I 7 H 6 G 5 F 1 E 2 D 7 C 6 B 6 A 1 and D 1 C 9 B 7 A 4	374765129635	 L 3 K 7 J 4 I 7 H 6 G 5 F 1 E 2 D 8 C 5 B 3 A 5	374765128535	False
+add the numbers I 6 H 0 G 6 F 5 E 8 D 7 C 3 B 3 A 3 and L 1 K 3 J 6 I 9 H 7 G 0 F 5 E 9 D 5 C 5 B 3 A 8	137577182871	 M 7 L 3 K 9 J 5 I 5 H 7 G 6 F 0 E 4 D 2 C 8 B 6 A 11	73955760428611	False
+add the numbers D 3 C 8 B 9 A 1 and D 5 C 1 B 0 A 4	8995	 D 8 C 9 B 9 A 5	8995	True
+add the numbers F 5 E 9 D 8 C 7 B 5 A 9 and M 9 L 6 K 6 J 8 I 0 H 2 G 3 F 8 E 8 D 6 C 3 B 4 A 9	9668024485108	 M 1 L 1 K 1 J 1 I 1 H 1 G 1 F 1 E 1 D 1 C 1 B 1 A 1	1111111111111	False
+add the numbers H 7 G 0 F 4 E 3 D 2 C 5 B 5 A 0 and G 3 F 1 E 0 D 7 C 2 B 1 A 4	73539764	 H 0 G 3 F 5 E 3 D 9 C 7 B 6 A 4	03539764	False
+add the numbers F 3 E 5 D 5 C 5 B 6 A 9 and F 1 E 6 D 0 C 4 B 5 A 8	516027	 F 4 E 1 D 5 C 9 B 1 A 7	415917	False
+add the numbers D 4 C 7 B 9 A 2 and E 3 D 7 C 5 B 9 A 9	42391	 E 3 D 1 C 3 B 0 A 2	31302	False
+add the numbers K 3 J 5 I 1 H 7 G 3 F 2 E 5 D 8 C 5 B 7 A 7 and G 4 F 9 E 2 D 6 C 0 B 8 A 5	35178184662	 K 3 J 5 I 1 H 7 G 3 F 2 E 5 D 8 C 5 B 7 A 7	35173258577	False
+add the numbers E 2 D 4 C 1 B 1 A 5 and D 5 C 1 B 3 A 5	29250	 E 2 D 5 C 2 B 4 A 0	25240	False
+add the numbers E 7 D 2 C 2 B 1 A 4 and J 3 I 7 H 6 G 9 F 3 E 2 D 4 C 4 B 8 A 3	3769396697	 J 3 I 7 H 6 G 9 F 3 E 2 D 4 C 4 B 8 A 3	3769324483	False
+add the numbers G 4 F 3 E 6 D 3 C 1 B 5 A 9 and I 9 H 6 G 3 F 0 E 0 D 8 C 5 B 7 A 8	967371737	 I 1 H 0 G 9 F 3 E 6 D 3 C 6 B 2 A 7	109363627	False
+add the numbers D 3 C 6 B 9 A 9 and M 8 L 5 K 5 J 8 I 6 H 5 G 4 F 6 E 5 D 1 C 3 B 3 A 2	8558654655031	 M 8 L 5 K 5 J 8 I 6 H 5 G 4 F 6 E 5 D 4 C 9 B 2 A 1	8558654654921	False
+add the numbers L 5 K 7 J 8 I 8 H 5 G 6 F 3 E 5 D 9 C 7 B 5 A 6 and G 9 F 2 E 3 D 7 C 5 B 7 A 3	578865597329	 L 5 K 7 J 8 I 8 H 5 G 6 F 3 E 5 D 9 C 7 B 5 A 6	578856359756	False
+add the numbers M 8 L 8 K 4 J 1 I 8 H 2 G 7 F 0 E 5 D 1 C 0 B 3 A 3 and E 8 D 7 C 6 B 1 A 1	8841827138644	 M 8 L 8 K 4 J 1 I 8 H 2 G 7 F 0 E 5 D 1 C 0 B 3 A 3	8841827051033	False
+add the numbers D 3 C 1 B 4 A 5 and D 4 C 3 B 2 A 6	7471	 E 1 D 5 C 4 B 6 A 1	15461	False
+add the numbers J 2 I 6 H 4 G 0 F 7 E 7 D 4 C 7 B 3 A 2 and N 6 M 7 L 5 K 1 J 6 I 3 H 2 G 8 F 5 E 9 D 1 C 9 B 5 A 9	67518969366691	 N 8 M 3 L 1 K 7 J 8 I 9 H 6 G 8 F 2 E 6 D 5 C 6 B 8 A 11	831789682656811	False
+add the numbers D 9 C 7 B 7 A 9 and D 9 C 3 B 1 A 3	19092	 E 1 D 3 C 0 B 8 A 0	13080	False
+add the numbers M 5 L 6 K 9 J 3 I 8 H 9 G 1 F 2 E 1 D 6 C 4 B 0 A 3 and D 1 C 3 B 2 A 2	5693891217725	 M 5 L 6 K 9 J 3 I 8 H 9 G 1 F 2 E 1 D 7 C 7 B 2 A 5	5693891217725	True
+add the numbers L 3 K 2 J 7 I 2 H 9 G 1 F 0 E 0 D 7 C 3 B 0 A 0 and H 4 G 9 F 4 E 2 D 1 C 5 B 4 A 8	327340428848	 L 3 K 2 J 7 I 2 H 9 G 1 F 4 E 2 D 8 C 8 B 4 A 8	327291428848	False
+add the numbers E 9 D 2 C 3 B 5 A 1 and E 3 D 3 C 6 B 7 A 8	126029	 E 3 D 5 C 9 B 2 A 9	35929	False
+add the numbers F 7 E 3 D 3 C 8 B 0 A 2 and K 2 J 1 I 1 H 9 G 7 F 7 E 2 D 9 C 5 B 4 A 4	21198463346	 K 2 J 1 I 1 H 9 G 7 F 7 E 2 D 9 C 5 B 4 A 6	21197729546	False
+add the numbers G 7 F 0 E 3 D 3 C 5 B 4 A 7 and D 4 C 7 B 5 A 6	7038303	 G 7 F 0 E 3 D 3 C 5 B 4 A 7	7033547	False
+add the numbers E 7 D 5 C 4 B 2 A 9 and D 9 C 8 B 4 A 7	85276	 E 6 D 5 C 3 B 6 A 6	65366	False
+add the numbers N 4 M 6 L 1 K 1 J 7 I 3 H 6 G 0 F 3 E 7 D 0 C 8 B 9 A 8 and H 7 G 7 F 0 E 4 D 8 C 1 B 6 A 7	46117437419065	 N 4 M 6 L 1 K 1 J 7 I 3 H 7 G 7 F 0 E 4 D 8 C 1 B 6 A 7	46117377048167	False
